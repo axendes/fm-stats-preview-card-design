@@ -4,8 +4,8 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 ## Links
 
-> Solution URL: [GitHub](https://github.com/hiofabien/age-calculator-app)  
-> Live Site URL: [GitHub](https://hiofabien.github.io/age-calculator-app)
+> Solution URL: [GitHub](https://github.com/hiofabien/stats-preview-card-component)  
+> Live Site URL: [GitHub](https://hiofabien.github.io/stats-preview-card-component)
 
 ## Built with
 
