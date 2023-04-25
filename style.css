@@ -38,6 +38,7 @@
     grid-template-columns: auto 1fr;
     grid-template-rows: 446px;
     gap: 5rem;
+    margin-block: 3rem;
 
     background-color: var(--dark-desaturated-blue);
     border-radius: .75rem;
